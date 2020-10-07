@@ -1,1 +1,2 @@
-# mercury-fonts
+# mercury-icons
+
